@@ -1,6 +1,6 @@
 "use strict";
 
-//const buttonPoll = document.querySelector(".poll");
+const buttonPoll = document.querySelector(".poll");
 
 // SU CODIGO EMPIEZA DESDE AQUI
 
