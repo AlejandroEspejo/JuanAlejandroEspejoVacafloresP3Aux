@@ -55,15 +55,15 @@ final. Haga la prueba tanto con la opción 'array' como ‘string’. No pongas 
 en el objeto ‘poll’. Entonces, ¿cómo debería verse ‘this’ en este caso?*/
 
 
-let arr1 = [5, 2, 3]
-let arr2 = [1, 5, 3, 9, 6, 1]
+//let arr1 = [5, 2, 3]
+//let arr2 = [1, 5, 3, 9, 6, 1]
 
-poll.displayResults(arr1)
-poll.displayResults(arr2)
+//poll.displayResults(arr1)
+//poll.displayResults(arr2)
 
-arr1 = "5, 2, 3"
-arr2 = "1, 5, 3, 9, 6, 1"
+//arr1 = "5, 2, 3"
+//arr2 = "1, 5, 3, 9, 6, 1"
 
-poll.displayResults(arr1)
-poll.displayResults(arr2)
+//poll.displayResults(arr1)
+//poll.displayResults(arr2)
 
